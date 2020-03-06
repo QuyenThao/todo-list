@@ -5,6 +5,10 @@
       "content": "Wake up"
     },
     {
+        "id": 1,
+        "content": "Brush teeth and wash my face"
+      },
+    {
       "id": 3,
       "content": "Eat breakfast"
     },
