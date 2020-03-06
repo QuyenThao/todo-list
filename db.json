@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "content": "Wake up"
+    },
+    {
+      "id": 3,
+      "content": "Eat breakfast"
+    },
+    {
+      "id": 4,
+      "content": "Go to school"
+    },
+    {
+      "id": 5,
+      "content": "Study in school"
+    },
+    {
+      "id": 6,
+      "content": "Go home"
+    }
+  ]
+}
